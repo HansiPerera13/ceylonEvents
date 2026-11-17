@@ -1,10 +1,10 @@
 # Ceylon Events 🇱🇰
 
-**Name:** YOUR FULL NAME
-**Student ID:** YOUR STUDENT ID
+**Name:** GAHJ Perera
+**Student ID:** FGS/MSc/CS/2025/020
 **Course:** COSC 64173 – Mobile Computing, Assignment 01 (University of Kelaniya)
 
-**Demo video:** PASTE YOUR UNLISTED YOUTUBE / GOOGLE DRIVE LINK HERE
+**Demo video:** 
 
 ---
 
