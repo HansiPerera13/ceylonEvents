@@ -1,7 +1,9 @@
 # Ceylon Events 🇱🇰
 
 **Name:** GAHJ Perera
+
 **Student ID:** FGS/MSc/CS/2025/020
+
 **Course:** COSC 64173 – Mobile Computing, Assignment 01 (University of Kelaniya)
 
 **Demo video:** 
