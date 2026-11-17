@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Ceylon Events",
+    "slug": "ceylon-events",
+    "version": "1.0.0",
+    "scheme": "ceylonevents",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router", "expo-notifications"]
+  }
+}
