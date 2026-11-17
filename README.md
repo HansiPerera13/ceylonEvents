@@ -6,7 +6,7 @@
 
 **Course:** COSC 64173 – Mobile Computing, Assignment 01 (University of Kelaniya)
 
-**Demo video:** 
+**Demo video:** https://drive.google.com/file/d/1y4hWLfQunHmtwd_Kmc9Cg5zys3GRUexc/view?usp=sharing
 
 ---
 
