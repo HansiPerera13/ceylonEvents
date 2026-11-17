@@ -10,6 +10,7 @@
 
 ---
 
+
 ## 1. What is the app and what problem does it solve?
 
 Ceylon Events is a mobile app for discovering cultural festivals, concerts, food fairs, sports and arts events across Sri Lanka. Information about local events is scattered across social media posts and word of mouth, which makes it hard to know what is on, where, when and how much it costs.
