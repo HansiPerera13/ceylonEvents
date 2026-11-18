@@ -80,7 +80,7 @@ Implemented in `utils/notifications.js`:
 - **Immediate:** "Event bookmarked!" is sent when an event is added to favorites (`trigger: null`).
 - **Timed:** "Remind me" on the detail screen schedules a reminder after 10 seconds using a `TIME_INTERVAL` trigger. The Settings screen also has "Send now" and "Send in 5 seconds" test buttons.
 
-**How I researched it:** I read the Expo Notifications documentation to learn the permission flow (`requestPermissionsAsync`), the foreground handler (`setNotificationHandler`) and the `scheduleNotificationAsync` API with its trigger types. I then created an Android notification channel, tested immediate and timed notifications separately, and finally connected them to the favorite and reminder actions. *(Edit this paragraph to describe your own process.)*
+**How I researched it:** I read the Expo Notifications documentation to learn the permission flow (`requestPermissionsAsync`), the foreground handler (`setNotificationHandler`) and the `scheduleNotificationAsync` API with its trigger types. I then created an Android notification channel, tested immediate and timed notifications separately, and finally connected them to the favorite and reminder actions. 
 
 Local notifications work in Expo Go. Remote push notifications do not work in Expo Go on Android and are not used here.
 
